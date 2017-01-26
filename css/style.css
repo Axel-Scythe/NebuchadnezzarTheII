@@ -1,0 +1,26 @@
+canvas {
+	background: black;
+	border: 1px solid white;
+	display: block; 
+	margin: 0 auto;
+	align-self: left;
+}
+
+body {
+	text-align: center;
+	background-color: rgb(86,86,86);
+}
+
+h1, h2, h3, h4, h5, h6, p{
+	color: rgba(150,150,150,1);
+}
+
+ul{
+	align-self: left;
+	text-align: left;
+}
+
+a:link    {color:rgba(150,150,150,1); background-color:transparent; text-decoration:none}
+a:visited {color:black; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
